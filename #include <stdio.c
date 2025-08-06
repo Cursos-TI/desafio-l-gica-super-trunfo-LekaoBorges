@@ -162,3 +162,18 @@ int main() {
     return 0;
 }
 
+#include <stdio.h>
+
+int main() {
+    // ----------------------------------------------------
+    // DECLARAÇÃO DE VARIÁVEIS PARA A PRIMEIRA CARTA
+    // ----------------------------------------------------
+    char estado1;
+    char codigo1[5];
+    char nome_cidade1[50];
+    unsigned long int populacao1; // Tipo para acomodar numeros grandes
+    float area1;
+    float pib1;
+    int pontos_turisticos1;
+
+}
